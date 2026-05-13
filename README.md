@@ -5,6 +5,10 @@
 ## Project Overview
 Task-Flow is a single-page, mobile-responsive Task Manager application. It allows users to quickly add, edit, toggle, and delete tasks dynamically, providing a seamless user experience.
 
+## Live Deployment
+* **Frontend (Netlify):** [https://aesthetic-treacle-361832.netlify.app](https://aesthetic-treacle-361832.netlify.app)
+* **Backend (Render):** [https://task-flow-backend-wk2a.onrender.com](https://task-flow-backend-wk2a.onrender.com)
+
 ## Tech Stack
 * **Backend:** FastAPI
 * **Database:** SQLite
